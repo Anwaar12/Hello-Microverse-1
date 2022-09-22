@@ -23,9 +23,9 @@
 
 Name :Anwaar Salam
 
-- GitHub: [https://github.com/Anwaar12]
-- Twitter: [https://twitter.com/Anwaar154]
-- LinkedIn: [https://www.linkedin.com/in/anwaar-salam-61a3821b0/]
+- GitHub: [Anwaar12](https://github.com/Anwaar12)
+- Twitter: [Anwaar154](https://twitter.com/Anwaar154)
+- LinkedIn: [Anwaar12](https://www.linkedin.com/in/anwaar-salam-61a3821b0/)
 
 ## 🤝 Contributing
 
